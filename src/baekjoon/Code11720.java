@@ -11,7 +11,7 @@ public class Code11720 {
 		// TODO Auto-generated method stub
 		//System.setIn(new FileInputStream("src/baekjoon/code11720"));
 		Scanner sc = new Scanner(System.in);
- 
+  
 		String T; // °ú¸ñ ¼ö
 		T = sc.nextLine();
 

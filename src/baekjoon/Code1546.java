@@ -24,7 +24,7 @@ public class Code1546 {
 		double M = arr[0]; //최댓 값
 		double sum = 0; //성적 합
 		double avg = 0; //평균
-		
+		 
 		for(int i=0; i<T; i++) {
 			//입력된 성적 저장			
 			arr[i] = sc.nextInt();
