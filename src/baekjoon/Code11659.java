@@ -8,7 +8,7 @@ import java.io.InputStreamReader;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-//11659 구간 합 구하기 4
+//11659 구간 합 구하기 4 --> 1차원 배열 구간합
 public class Code11659 {
 
 	public static void main(String[] args) throws IOException {
