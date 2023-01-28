@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-//11660 구간 합 구하기 2 --> 2차원배열 구간합
+//11660 구간 합 구하기 5 --> 2차원배열 구간합
 public class Code11660 {
 	public static void main(String[] args) throws IOException {
 		// 2차원 배열 구간 합 구하기
